@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 import React from "react";
 import SearchBar from "./searchbar";
+
 
 function App(){
   return(
@@ -9,7 +9,6 @@ function App(){
     </div>
   )
 }
-=======
 import React from "react";
 import NavBar from "./components/NavBar";
 import Footer from "./Footer";
@@ -23,4 +22,3 @@ const App = () => {
 };
 
 export default App;
->>>>>>> development
