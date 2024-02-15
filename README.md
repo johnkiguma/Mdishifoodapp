@@ -1,6 +1,6 @@
 Project title :  MDISHIFOODAPP
 
-Project Author : Weddy makena , Marvin ,leon ,john 
+Project Author : Weddy makena , Marvin okongo,leon onditi ,john kiguma
 
 mdishi Food App
 Welcome to mdishi - Your Ultimate Food Ordering Experience
@@ -10,9 +10,6 @@ Features:
 
     User-Friendly Interface:
         Navigate effortlessly through a variety of restaurants, cuisines, and dishes with our sleek and intuitive design, inspired by the simplicity of Uber Eats.
-
-    AI-Powered Recommendations:
-        Enjoy a personalized experience with our advanced recommendation system. Let mdishi learn your preferences, anticipate your cravings, and introduce you to new culinary delights.
 
     Real-Time Order Tracking:
         Stay informed with accurate delivery estimates and track your orders in real-time. Experience seamless communication with our delivery drivers for a worry-free experience.
