@@ -1,3 +1,55 @@
+Project title :  MDISHIFOODAPP
+
+Project Author : Weddy makena , Marvin ,leon ,john 
+
+mdishi Food App
+Welcome to mdishi - Your Ultimate Food Ordering Experience
+
+Thank you for choosing mdishi, your go-to destination for a seamless and personalized food ordering experience. This ReadMe file provides you with essential information to make the most out of our innovative food app.
+Features:
+
+    User-Friendly Interface:
+        Navigate effortlessly through a variety of restaurants, cuisines, and dishes with our sleek and intuitive design, inspired by the simplicity of Uber Eats.
+
+    AI-Powered Recommendations:
+        Enjoy a personalized experience with our advanced recommendation system. Let mdishi learn your preferences, anticipate your cravings, and introduce you to new culinary delights.
+
+    Real-Time Order Tracking:
+        Stay informed with accurate delivery estimates and track your orders in real-time. Experience seamless communication with our delivery drivers for a worry-free experience.
+
+    Transparent and Reliable:
+        mdishi values transparency. We strive to provide reliable information, from delivery times to restaurant ratings, ensuring a trustworthy experience for our users.
+
+    Community-Driven Environment:
+        Engage with the mdishi community by sharing your thoughts through our robust rating and review system. Contribute to the collective wisdom and help others make informed decisions.
+
+    Exclusive Deals and Promotions:
+        Benefit from our partnerships with local restaurants, offering exclusive deals, discounts, and promotions. Save money while supporting your local culinary community.
+
+Getting Started:
+
+    Installation:
+        Download and install the mdishi Food App from your preferred app store.
+
+    Account Creation:
+        Create your account to unlock personalized features and preferences.
+
+    Explore and Order:
+        Start exploring a diverse range of restaurants and cuisines. Place your orders effortlessly with just a few taps.
+
+    Enjoy Your Food:
+        Sit back, relax, and enjoy your delicious meal. mdishi is here to enhance your dining experience.
+
+Feedback and Support:
+
+We value your feedback and are committed to continuously improving the mdishi experience. If you have any questions, concerns, or suggestions, please reach out to our support team at support@mdishi.com.
+
+Thank you for choosing mdishi. We look forward to being your preferred food ordering platform!
+
+Happy ordering,
+The mdishi Team
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

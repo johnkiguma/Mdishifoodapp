@@ -104,16 +104,11 @@
         ]
       }
     ],
-    
-    "form":[
-        {
-            "id":1,
-            "title": "jim",
-            "lato": "foody"
-        }
-
+    "form": [
+      {
+        "id": 1,
+        "email": "john@gmail.com",
+        "feedback": "Nice food"
+      }
     ]
-
   }
-
-  
